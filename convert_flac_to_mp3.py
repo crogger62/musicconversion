@@ -25,10 +25,10 @@ from pathlib import Path
 
 # ── Configuration ────────────────────────────────────────────────────────────
 
-SOURCE_DIR = r"D:\Torrents\Music"
-DEST_DIR   = r"D:\Torrents\Music_MP3"
+SOURCE_DIR = "/mnt/d/Torrents/Music"
+DEST_DIR   = "/mnt/d/Torrents/Music_MP3"
 BITRATE    = "320k"
-LOG_FILE   = r"D:\Torrents\Music_MP3\conversion.log"
+LOG_FILE   = "/mnt/d/Torrents/Music_MP3/conversion.log"
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
